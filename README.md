@@ -28,8 +28,13 @@ npm run dev
 npm run build
 ```
 ### web page
-![image](https://user-images.githubusercontent.com/110722586/196171496-81108409-c3b9-450e-a192-8a819942096a.png)
-![image](https://user-images.githubusercontent.com/110722586/196171671-10d7b27d-22d7-4d8a-ae76-a6d60e51041f.png)
-![image](https://user-images.githubusercontent.com/110722586/196171727-66c58236-0193-44c2-9e04-7b421e94a728.png)
-![image](https://user-images.githubusercontent.com/110722586/196172001-32b7de7d-e10b-4b2a-b670-90a98b3d8e94.png)
+![image](https://user-images.githubusercontent.com/110722586/196172199-c71f0b1c-0efe-4dce-b4c2-24c1f5aa0db4.png)
+![image](https://user-images.githubusercontent.com/110722586/196172241-025a6cb9-0385-444a-b608-92e0db4e7253.png)
+![image](https://user-images.githubusercontent.com/110722586/196172826-ee02379b-7c98-4637-abc5-4f1e80f3ffcb.png)
+![image](https://user-images.githubusercontent.com/110722586/196173444-9ff5cc76-e7d4-4655-a672-00a20759a2f1.png)
+![image](https://user-images.githubusercontent.com/110722586/196173508-a4fdfd2e-3c9a-4ce0-b32a-2cbe86e02d4f.png)
+
+
+
+
 
